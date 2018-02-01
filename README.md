@@ -1,4 +1,4 @@
-This is a starter pack for a React counter app. It is meant to a practice assignment for someone learning the basics of React. It contains a set of tests that checks for the main functionalities of the app:
+This is a starter pack for a React counter app. It is meant as a practice assignment for someone learning the basics of React. It contains a set of tests that checks for the following functionalities:
 
 1. A span with the id `count` that displays an initial count of 3
 2. Three buttons with the class `increment` that increase the count value.
